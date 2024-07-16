@@ -1,0 +1,22 @@
+.container {
+    width: 100vw;
+    height: 80vh;
+    /* background: url('./background2.png') no-repeat center;
+    background-size: cover; */
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+}
+.titulo {
+    z-index: 1;
+    position: absolute;
+    top: 10%;
+    left: 65%;
+    font-size: 3rem;
+}
+.destaque {
+    width: 40%;
+    height: 60%;
+    margin-left: 80px;
+}
+

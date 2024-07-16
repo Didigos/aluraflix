@@ -1,0 +1,14 @@
+.botao {
+    width: 120px;
+    height: 40px;
+    border-radius: .7rem;
+}
+
+.botao:hover{
+    cursor: pointer;
+}
+
+.btnCard {
+    width: 95px;
+    height: 40px;
+}

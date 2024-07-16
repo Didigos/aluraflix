@@ -1,0 +1,15 @@
+.footer {
+    width: 100vw;
+    height: 10vh;
+    background-color: #000000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top: 3px solid #2271D1;
+}
+
+.footer h1 {
+    text-align: center;
+    color: #fff;
+    font-size: 1rem;
+}
